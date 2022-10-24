@@ -1,17 +1,8 @@
-Link-in-bio for Craftzdog
+Link-in-bio for senyoudev
 =========================
 
-https://links.craftz.dog/
+https://senyoudev.github.io/bio-link-instagram/
 
-![thumbnail](./thumb.jpg)
 
-[Video tutorial available here](https://youtu.be/u71pHOyvBp0).
-
-## License
-
-MIT by Takuya Matsuyama
-
-You can create your own link-in-bio page for free without notifying me by forking this project under the following conditions:
-
-- Add a link to [my homepage](https://www.craftz.dog/) anywhere
-- Do not use the Japanese garden picture
+It's a tutorial for Craftzdog
+[His website](https://www.craftz.dog/)
