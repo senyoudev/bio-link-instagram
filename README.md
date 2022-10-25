@@ -3,7 +3,7 @@
 </h1>
 
 ### Application Demo
-You can visit it from the [link][https://senyoudev.github.io/bio-link-instagram/]
+You can visit it from the [link](ttps://senyoudev.github.io/bio-link-instagram/)
 
 ![image](https://user-images.githubusercontent.com/88585304/197878313-f44544c9-ccbd-4fe1-8f80-9e5b77daff3f.png)
 
